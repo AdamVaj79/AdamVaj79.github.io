@@ -1,3 +1,56 @@
-h1 {
-color: red;
+ body {
+        background-color: aliceblue;
+        font-family: "Calibre","Helvetica Neue",Helvetica,sans-serif;
+        margin-left: 340px;
+        margin-right: 340px;
+        margin-top: 0px;      
 }
+h1, .sectionContent { 
+        margin-left: 0px;
+        padding: 10px;
+        margin-right: 0px;
+} 
+h1 {
+        font-size: 60px;
+
+}
+#contactDetails {
+        float: right;
+        margin-top: -100px;
+        line-height: 20px;
+    
+  
+  
+}
+#contactDetails ul {
+        list-style-type: none;
+}
+a {
+        list-style-type: none;
+}
+.subDetails {
+        float: right;
+        width: 250px;
+        margin-top: -85px;
+        text-align: right;
+        line-height: 15px;
+}
+.subContent {
+        width: 500px;
+        line-height: 18px;
+  
+}
+.subDate {
+        float: right;
+        text-align: right;
+        width: 250px;
+        margin-top: -128px;
+        line-height: 10px;
+}
+        
+.techSkills {
+        line-height: 10px;
+        }
+#summary {
+        line-height: 20px;
+        }
