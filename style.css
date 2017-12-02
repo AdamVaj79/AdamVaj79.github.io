@@ -31,22 +31,28 @@ a {
 .subDetails {
         float: right;
         width: 250px;
-        margin-top: -85px;
+        margin-top: -80px;
         text-align: right;
         line-height: 15px;
 }
 .subContent {
         width: 500px;
-        line-height: 18px;
+        line-height: 12px;
   
 }
 .subDate {
         float: right;
         text-align: right;
         width: 250px;
-        margin-top: -128px;
+        margin-top: -110px;
         line-height: 10px;
 }
+.subDates {
+        float: right;
+        text-align: right;
+        width: 250px;
+        margin-top: -130px;
+        line-height: 10px;
         
 .techSkills {
         line-height: 10px;
